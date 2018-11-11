@@ -184,7 +184,7 @@ h1, h2, h3, h4, h5,
       transform: translateY(-50%); }
     .probootstrap-main .probootstrap-bar .probootstrap-main-site-logo {
       margin: 0 auto;
-      width: 300px;
+      width: 600px;
       text-align: center;
       position: relative; }
       .probootstrap-main .probootstrap-bar .probootstrap-main-site-logo a {
@@ -516,8 +516,8 @@ textarea {
 
 .logo {
     max-height: 100px;
-    max-width: 300px;
-    overflow: hidden;
+    max-width: 600px;
+    /* overflow: hidden; */
 }
 
 #probootstrap-loader {
