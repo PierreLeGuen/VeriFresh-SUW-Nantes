@@ -210,25 +210,30 @@ h1, h2, h3, h4, h5,
       padding: 30px 15px; } }
   @media screen and (max-width: 1140px) {
     .probootstrap-main .card-columns {
+      margin-top: 100px;
       -webkit-columns: 3;
       -moz-columns: 3;
       columns: 3; } }
   @media screen and (max-width: 960px) {
     .probootstrap-main .card-columns {
+      margin-top: 100px;
       -webkit-columns: 2;
       -moz-columns: 2;
       columns: 2; } }
   @media screen and (max-width: 768px) {
     .probootstrap-main .card-columns {
+      margin-top: 100px;
       -webkit-columns: 2;
       -moz-columns: 2;
       columns: 2; } }
   @media screen and (max-width: 576px) {
     .probootstrap-main .card-columns {
+      margin-top: 100px;
       -webkit-columns: 1;
       -moz-columns: 1;
       columns: 1; } }
   .probootstrap-main .card-columns .card {
+    margin-top: 100px;
     background: #e6e6e6;
     border: none;
     border-radius: 0px !important;
@@ -513,6 +518,12 @@ textarea {
 .probootstrap-animate {
   opacity: 0;
   visibility: hidden; }
+
+.logo {
+    max-height: 100px;
+    max-width: 300px;
+    overflow: hidden;
+}
 
 #probootstrap-loader {
   position: fixed;
