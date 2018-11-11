@@ -162,6 +162,7 @@ h1, h2, h3, h4, h5,
     -webkit-transform: translateY(0%);
     -ms-transform: translateY(0%);
     transform: translateY(0%);
+    
   }
     @media screen and (max-width: 768px) {
       .probootstrap-main .probootstrap-bar {
@@ -193,6 +194,16 @@ h1, h2, h3, h4, h5,
         color: #000;
         text-transform: uppercase;
         letter-spacing: .05em; }
+        .probootstrap-main .probootstrap-bar .probootstrap-main-site-navbar {
+          margin: 0 auto;
+          /* width: 300px; */
+          text-align: center;
+          position: relative; 
+          top: 50%;
+          font-weight: 650;
+          
+        }
+          
   @media screen and (max-width: 768px) {
     .probootstrap-main {
       width: 100%;
