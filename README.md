@@ -1,12 +1,5 @@
-# VeriFresh-SUW-Nantes
+# VeriFresh-SUW-Nantes www.verifresh.co
 Prototype de site web pour le start-up week-end à Nantes.
-
-THEME: Aside - Free Bootstrap 4 Theme
-AUTHOR: uiCookies.com
-LICENSE: Under Creative Commons 3.0 (probootstrap.com/license)
-AUTHOR URI: https://uicookies.com/
-
-
 
 CREDITS:
 
